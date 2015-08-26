@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="bootstrap.css" rel="stylesheet">
+</head>
+
+<body>
+<div class="navbar navbar-default navbar-static" style="background-color:#57D7B9; padding-top:1%; padding-bottom:1%">
+    <div class="container"> 
+              <div class="navbar-collapse collapse col-md-6">
+        <ul class="nav navbar-nav" >
+                  <li class="active"><a href="#">Logo</a></li>
+                  
+                </ul>
+      </div>
+      <div style="float:right" class="col-md-6">
+      <input  class="form-control" type="text" id="username or email" placeholder="username or email"><br>
+      <input class="form-control" type="text" id="Password" placeholder = "Password"><br>
+      <button class="btn">Log In</button>
+      <button class="btn">Sign Up</button>
+      <a href="#" class="btn-link">Forget Password</a>
+      <a href="#" class="navbar-link">Help</a>
+  </div>
+            
+            </div>
+  </div>
+    
+<div class="jumbotron" style="background-color:#7ED0DD">
+  <div class="container">
+        <h1>CAR POOLING.</h1>
+    <p>Rent from people in your city.</p>
+  </div>
+  
+  
+</div>
+<div class="jumbotron">
+<div class="container">
+
+          <div class="media-left">
+        <h3>Car Holder</h3>
+        <p>Earn money when you go to office by helping others.</p>
+        <p><a href="#">Learn more about carholder</a></p>
+      </div>
+      <div class="media-right">
+        <h3>Non Car holder</h3>
+        <p ><b>You can go to office in car as fresh</b></p>
+        <p>Need not to</p>
+        <p>Stand in bus</p>
+        <p>travel in crowd</p>
+        <p>spoil ur freshness </p>
+        <p><a href="#">Learn about non car holder</a></p>
+        <div class="media-right">
+          <h3>Others</h3>
+          <p>Officials,Travel Agents,other vehicle owners.</p>
+	<p><a href="#">what others can do</a></p>
+        </div>
+      </div>
+      </div>
+      </div>
+      <div>
+
+</div>
+      
+</body>
+</html>
